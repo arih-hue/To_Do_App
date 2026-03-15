@@ -33,4 +33,4 @@ Follow these steps to run the project on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/arih-hue/To_Do_App.git]
