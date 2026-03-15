@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:to_do/database.dart';
-import 'package:to_do/to_do_tile.dart';
+import 'package:to_do_app/database.dart';
+import 'package:to_do_app/to_do_tile.dart';
 import 'dialog.dart';
 
 void main() async{
