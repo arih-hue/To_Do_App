@@ -23,10 +23,9 @@ class dialog extends StatelessWidget {
           child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                //get user input
                 TextField(
                   controller: controller,
-                  style: const TextStyle(color: Colors.white), // Makes the typed text white
+                  style: const TextStyle(color: Colors.white),
                   decoration: const InputDecoration(
                     hintText: "Add a new task",
                     hintStyle: TextStyle(color: Color(0xFFC1C1C1FF)),
